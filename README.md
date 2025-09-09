@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack
 - **Languages**: C++ | Python | SQL  | R | Verilog | Java & Kotlin       
 - **Core Skills**: Object Oriented Programming, data structures, algorithms, databases, probability & statistics, linear algebra  
-- **Exploring**: AI, data science, networks, mobile app dev  
+- **Exploring**: AI, data science, networks, mobile app development, digital system design
 
 ---
 
