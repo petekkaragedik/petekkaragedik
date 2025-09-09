@@ -33,6 +33,6 @@
 ---
 
 ## 📫 Let’s Connect
-- [LinkedIn](petekkaragedik)  https://www.linkedin.com/in/petek-karagedik-833448285/
-- [Email](petek.karagedik@sabanciuniv.edu)  
+- LinkedIn: petekkaragedik  https://www.linkedin.com/in/petek-karagedik-833448285/
+- Email: petek.karagedik@sabanciuniv.edu
 - Always down to debug code or discuss macro policy over coffee ☕
