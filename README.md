@@ -21,12 +21,7 @@
 ---
 
 ## 📂 Featured Projects
-*(just some highlights from coursework & side projects — more in my repos 👇)*  
-- **Algorithm Visualizer** → Designed & implemented data structure/algorithm simulations for learning purposes  
-- **Database Systems Project** → Built a relational database system w/ SQL queries & optimization  
-- **Logic & Digital Systems Design** → Hardware-level design of combinational/sequential circuits  
-- **Interactive Mobile App (in progress @ HKU)** → Developing cross-platform mobile experiences  
-- **Economics Meets Code** → Computational models for strategic decision-making & simulations  
+*See my repos for my most recent projects!*  
 
 ---
 
