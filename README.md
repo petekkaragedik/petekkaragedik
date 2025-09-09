@@ -39,5 +39,4 @@
 
 ---
 
-[![Petek Karagedik's GitHub stats](https://github-readme-stats.vercel.app/api?username=petekkaragedik)](https://github.com/petekkaragedik/github-readme-stats)
-![Petek Karagedik's GitHub stats](https://github-readme-stats.vercel.app/api?username=petekkaragedik&show_icons=true&theme=radical)
+![Petek Karagedik's GitHub stats](https://github-readme-stats.vercel.app/api?username=petekkaragedik&show_icons=true&theme=buefy)
