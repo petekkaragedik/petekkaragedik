@@ -2,6 +2,7 @@
 
 🎓 Junior at **Sabancı University, İstanbul**  
 📚 Double majoring in **Computer Science & Engineering** + **Economics**
+
 🌏 Currently an exchange student at **The University of Hong Kong** (Fall 2025)  
 
 ---
