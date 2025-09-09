@@ -37,4 +37,7 @@
 - Email: petek.karagedik@sabanciuniv.edu
 - Always down to debug code or discuss macro policy over coffee ☕
 
-[![Petek's GitHub stats](https://github-readme-stats.vercel.app/api?username=petekkaragedik)](https://github.com/petekkaragedik/github-readme-stats)
+---
+
+[![Petek Karagedik's GitHub stats](https://github-readme-stats.vercel.app/api?username=petekkaragedik)](https://github.com/petekkaragedik/github-readme-stats)
+![Petek Karagedik's GitHub stats](https://github-readme-stats.vercel.app/api?username=petekkaragedik&show_icons=true&theme=radical)
