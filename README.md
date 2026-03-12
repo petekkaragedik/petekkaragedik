@@ -1,8 +1,8 @@
 # Hey, I’m Petek Karagedik 👋
 
-🎓 Junior at **Sabancı University, İstanbul**  
+🎓 Senior at **Sabancı University, İstanbul**  
 📚 Double majoring in **Computer Science & Engineering** + **Economics**               
-🌏 Currently an exchange student at **The University of Hong Kong** (Fall 2025)  
+🌏 Has the best time of my life as an exchange student at **The University of Hong Kong** (Fall 2025)  
 
 ---
 
