@@ -2,7 +2,7 @@
 
 🎓 Senior at **Sabancı University, İstanbul**  
 📚 Double majoring in **Computer Science & Engineering** + **Economics**               
-🌏 Has the best time of my life as an exchange student at **The University of Hong Kong** (Fall 2025)  
+🌏 Had the best time of my life as an exchange student at **The University of Hong Kong** (Fall 2025)  
 
 ---
 
