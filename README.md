@@ -2,7 +2,8 @@
 
 🎓 Senior at **Sabancı University, İstanbul**  
 📚 Double majoring in **Computer Science & Engineering** + **Economics**               
-🌏 Had the best time of my life as an exchange student at **The University of Hong Kong** (Fall 2025)  
+🌏 Had the best time of my life as an exchange student at **The University of Hong Kong** (Fall 2025) 
+🗽 Spent summer 2026 in New York as a **Lillian Gilbreth Scholar** at **Rensselaer Polytechnic Institute (RPI)**
 
 ---
 
@@ -20,6 +21,20 @@
 
 ---
 
+## 🔬 Research Experience
+
+**Lillian Gilbreth Scholar, Visiting Researcher @ RPI (OASIS Lab)** · Feb 2026 – Present
+*Industrial & Systems Engineering, with Prof. Andrew Trapp*
+
+- 🧠 Working on **interactive optimization**: turning math models into transparent, adjustable tools that real decision-makers can actually use
+- 🛠️ Led a **decision support system** from design to build, from the optimization side (arc elimination) to the interactive layer
+- 🗺️ Built **SWAP & Route**, a logistics dashboard for nonprofit routing in Baltimore (React, Vite, Tailwind, React-Leaflet, OSRM road routing)
+- ⚡ Set up Gurobi on RPI's HPC cluster from scratch (SSH, Duo 2FA, license and proxy debugging 😅)
+- 📝 Co-authoring a research paper on this work, still cooking!
+- 🇺🇸 Started remotely from İstanbul, spent July–August on-site in New York, still continuing the research from Turkey
+
+---
+
 ## 📂 Featured Projects
 *See my repos for my most recent projects!*  
 
@@ -28,7 +43,8 @@
 ## 🌱 What’s Next
 - Deepening expertise in various areas like **AI, data, apps, networks and applied economics**  
 - Building projects that connect **theory → implementation → real-world use**  
-- Always open to collaborating on cool ideas 🚀  
+- Always open to collaborating on cool ideas 🚀
+- Pushing optimization research toward real-world decision-making tools 
 
 ---
 
